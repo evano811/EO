@@ -1,4 +1,4 @@
-# EO-URI-Coursework
+# EO
 
 _ELE/CSC Double Major at the University of Rhode Island with Expected Graduation in May 2026_
 
