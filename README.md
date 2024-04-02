@@ -40,6 +40,14 @@ _ELE/CSC Double Major at the University of Rhode Island with Expected Graduation
 
 ### SPRING 2024
 
+* _CSC 305_
+* _ELE 205_
+* _ELE 206_
+* _ELE 212_
+* _ELE 215_
+* _MTH 243_
+* _PHY 205_
+* _PHY 275_
 
 
 ### FALL 2024
