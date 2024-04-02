@@ -52,4 +52,14 @@ _ELE/CSC Double Major at the University of Rhode Island with Expected Graduation
 
 ### FALL 2024
 
+* _CSC 310_
+* _ELE 313_
+* _ELE 338_
+* _ELE 339_
+* _ISE 313_
+* _MTH 215_
+
+
+
+
 ## Intramural - PA of Officials
