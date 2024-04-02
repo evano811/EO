@@ -1,4 +1,4 @@
-# EO
+# Evan O'Neill - Personal Github
 
 _ELE/CSC Double Major at the University of Rhode Island with Expected Graduation in May 2026_
 
@@ -20,3 +20,5 @@ _ELE/CSC Double Major at the University of Rhode Island with Expected Graduation
 ### SPRING 2024
 
 ### FALL 2024
+
+## Intramural - PA of Officials
