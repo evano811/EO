@@ -2,7 +2,9 @@
 
 _ELE/CSC Double Major at the University of Rhode Island with Expected Graduation in May 2026_
 
-## FALL 2022
+## Courses Taken
+
+### FALL 2022
 
 * CHM 101/102
 * CSC 110
@@ -11,10 +13,10 @@ _ELE/CSC Double Major at the University of Rhode Island with Expected Graduation
 * MTH 111
 
 
-## SPRING 2023
+### SPRING 2023
 
-## FALL 2023
+### FALL 2023
 
-## SPRING 2024
+### SPRING 2024
 
-## FALL 2024
+### FALL 2024
