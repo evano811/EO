@@ -10,8 +10,11 @@
 ## Course Structure
 
 **Quizzes** - 25%
+
 **Homework** - 12.5%
+
 **Exams** - 37.5% (3 Exams, 12.5% Each)
+
 **Final Exam** - 25%
 
 ## Topics
