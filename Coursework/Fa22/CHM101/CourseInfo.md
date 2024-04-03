@@ -20,7 +20,9 @@
 
 ## Topics
 
+
 ### **UNIT I**
+
 
 ### Chapter I - Chemistry: The Science of Change
 - _1.1_ - The Scientific Method
@@ -47,31 +49,93 @@
 - _3.7_ - Quantum Numbers
 - _3.8_ - Atomic Orbitals
 
-  
-### Chapter IV - Exponential and Logarithmic Functions
-- _4.1_ - Exponential Functions
-- _4.2_ - Graphs of Exponential Functions
-- _4.3_ - Logarithmic Functions
-- _4.4_ - Graphs of Logarithmic Functions
-- _4.5_ - Logarithmic Properties
-- _4.6_ - Exponential and Logarithmic Inequalities
+
+### **UNIT II**
 
   
-### Chapter V - Trigonometry Basics
-- _5.1_ - Angles
-- _5.2_ - Unit Circle, Sine and Cosine
-- _5.3_ - Tangent and Other Trig Functions
-- _5.4_ - Right Triangle Trigonometry
-
-
-### Chapter VI - Graphical Analysis of Trigonometry
-- _6.1_ - Graphs of Sine and Cosine
-- _6.2_ - Graphs of Other Trigonometric Functions
-- _6.3_ - Inverse Trigonometry
+### Chapter IV - Electrons & Ions
+- _4.1_ - Development of Periodic Table
+- _4.2_ - Electron Configurations
+- _4.3_ - Electron Configurations of the Modern Periodic Table
+- _4.4_ - Effective Nuclear Charge
+- _4.5_ - Periodic Trends
+- _4.6_ - Electron Configurations of Ions
+- _4.7_ - Ionic Radius
 
   
-### Chapter VII - Analytical Trigonometry
-- _7.1_ - Solving Trigonometric Equations with Identities
-- _7.2_ - Sum and Difference Identities
-- _7.3_ - Double Angles, Half Angles and Reduction 
+### Chapter V - Bonds and Compounds
+- _5.1_ - Compounds
+- _5.2_ - Lewis Dot Symbols
+- _5.3_ - Ionic Compounds and Bonding
+- _5.5_ - Covalent Bonding and Molecules
+- _5.6_ - Naming Covalent Compounds
+- _5.7_ - Covalent Bonding in Ionic Species
+- _5.8_ - Molecular and Formula Masses
+- _5.9_ - Percent Composition of Compounds
+- _5.10_ - Molar Mass & Emperical Formulas
+
+
+### Chapter VI - Representing Elements with Diagrams
+- _6.1_ - The Octet Rule
+- _6.2_ - Electronegativity & Polarity
+- _6.3_ - Drawing Lewis Structures
+- _6.4_ - Lewis Structures and Formal Charges
+- _6.5_ - Resonance
+- _6.6_ - Octet Rule Exceptions
+
+
+### **UNIT III**
+
+  
+### Chapter VII - Molecular Geometry & Hybridization
+- _7.1_ - Molecular Geometry
+- _7.2_ - Molecular Geometry and Polarity
+- _7.3_ - Intermolecular Forces
+- _7.4_ - Valence Bond Theory
+- _7.5_ - Hybridization of Orbitals
+- _7.6_ - Hybridization in Atoms with Multiple Bonds
+
+
+### Chapter VIII - Chemical Equations
+- _8.1_ - Chhemical Equations
+- _8.2_ - Combustion Reactions
+- _8.3_ - Calculations with Balanced Chemical Reactions
+- _8.4_ - Limiting Reactants
+
+
+### Chapter IX - Chemical Reactions in Aqueous Solutions
+- _9.1_ - Properties of Aqueous Solutions
+- _9.2_ - Precipitation Reactions
+- _9.3_ - Acid-Base Reactions
+- _9.4_ - Oxidation-Reduction Reactions (Redox)
+- _9.5_ - Concentration of Solutions
+- _9.6_ - Aqueous Reactions and Chemical Analysis
+
+
+## **UNIT IV**
+
+
+### Chapter X - Energy & Calorimetry
+- _10.1_ - Energy and Energy Changes
+- _10.2_ - Introduction to Thermodynamics
+- _10.3_ - Enthalpy
+- _10.4_ - Calorimetry
+- _10.5_ - Hess's Law
+- _10.6_ - Standard Enthalpies of Formation
+- _10.7_ - Bond Enthalpies and the Stabiity of Covalent Molecules
+
+
+### Chapter XI - Gasses
+- _11.1_ - Properties of Gasses
+- _11.2_ - Kinetic Molecular Theory of Gasses
+- _11.3_ - Gas Pressure
+- _11.4_ - The Gas Laws
+- _11.5_ - Ideal Gas Equation
+- _11.7_ - Gas Mixtures
+
+
+### Chapter XII - Liquids and Solids
+- _12.1_ - Properties of Liquids
+- _12.2_ - Phase Changes
+- _12.3_ - Phase Diagrams
 
